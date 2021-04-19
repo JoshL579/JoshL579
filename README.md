@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zehua(Josh) Liu
-- 👀 I’m interested in fullstack development, including Flask and ReactJs with SQL
+- 👀 I’m interested in fullstack development, including Flask, Express and ReactJs with SQL or NoSQL
 - 🌱 I’m currently learning morden frameworks
 - 📫 How to reach me: bvup66@gmail.com
 
