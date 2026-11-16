@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zehua(Josh) Liu
+- 👋 Hi, I’m Josh Liu
 - 👀 I’m interested in fullstack development, including Flask, Express, Springboot and ReactJs with SQL or NoSQL, 
 - 🤵 You can find more information about me on my portfolio www.joshgalaxy.com.
 - 🌱 I’m currently learning morden frameworks and Java Android Development
